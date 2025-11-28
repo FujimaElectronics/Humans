@@ -13,5 +13,5 @@ AI.
 
 ## The AI-free Certification
 
-In order to reach our goals, we created the **AI-free Certification**.
+In order to reach our goals, we created the **AI-free Certification**. \
 [Learn more](ai-free-certification).
