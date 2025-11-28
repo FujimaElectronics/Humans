@@ -1,4 +1,6 @@
 # Humans
+Do not take this website seriously.
+
 ## License
 This website uses the Jekyll theme [Cayman](https://pages-themes.github.io/cayman/) which
 is under CC0-1.0 License.
