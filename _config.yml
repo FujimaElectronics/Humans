@@ -1,5 +1,5 @@
+title: Humans
+description: Because Humans are worth more
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Humans
-description:
+- jekyll-remote-theme
